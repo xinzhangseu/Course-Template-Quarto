@@ -9,10 +9,10 @@ name: Build Site
 
 jobs:
   build-website:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      RENV_CONFIG_REPOS_OVERRIDE: https://packagemanager.posit.co/cran/__linux__/jammy/latest
+      RENV_CONFIG_REPOS_OVERRIDE: https://packagemanager.posit.co/cran/__linux__/noble/latest
     steps:
       - uses: actions/checkout@v2
 
