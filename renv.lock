@@ -9,6 +9,13 @@
     ]
   },
   "Packages": {
+    "quarto": {
+      "Package": "quarto",
+      "Version": "1.4.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b18274d1561f00880e72ff8b54930335"
+    },
     "DBI": {
       "Package": "DBI",
       "Version": "1.3.0",
