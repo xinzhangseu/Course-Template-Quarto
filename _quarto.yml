@@ -5,9 +5,9 @@ website:
   page-navigation: true
   title: "STA 210 - Spring 2022"
   description: "Homepage for STA 210 - Regression Analysis at Duke University, Spring 2022."
-  site-url: "https://sta210-s22.github.io/website/"
+  site-url: "https://xinzhangseu.github.io/Course-Template-Quarto/"
 
-  repo-url: https://github.com/sta210-s22/website
+  repo-url: https://github.com/xinzhangseu/Course-Template-Quarto/
   repo-actions: [edit, issue]
 
   open-graph: true
